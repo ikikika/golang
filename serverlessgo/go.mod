@@ -1,4 +1,4 @@
-module github,com/ikikika/serverlessgo
+module github.com/ikikika/golang/serverlessgo
 
 go 1.12
 
